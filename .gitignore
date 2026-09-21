@@ -9,3 +9,7 @@
 *.wav
 *.mp3
 production/
+
+# Public demonstration generated for this repository
+!assets/demo.mp4
+__pycache__/
